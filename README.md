@@ -1,9 +1,4 @@
-<!-- Branding Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Aravindh%20MS-Automation%20%7C%20SRE%20Enthusiast-blueviolet?style=for-the-badge" />
-</p>
-
-<h1 align="center">Hi, I'm Aravindh 👋</h1>
+<h1 align="center">Hi, I'm [Aravindh](https://aravindhms.vercel.app/) 👋</h1>
 
 ---
 
