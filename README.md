@@ -75,6 +75,15 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aravindhms&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=aravindhms&layout=compact&theme=radical" />
+</p>
+
+---
+
 <!-- VIEW COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aravindhms&style=for-the-badge" />
