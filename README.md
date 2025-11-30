@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm <a href="https://aravindhms.vercel.app/"> Aravindh</a>> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://aravindhms.vercel.app/" Aravindh</a> 👋</h1>
 <p align="center">🚀 Automation • 📊 Dashboards • 🐍 Python • 🖼️ Image Tools</p>
 
 <!-- BADGES -->
