@@ -1,103 +1,86 @@
-<h1 align="center">Hi, I'm <a href="https://aravindhms.vercel.app/">Aravindh</a> 👋</h1>
+<!-- HEADER -->
+<h1 align="center">Hi, I'm <a href="https://aravindhms.vercel.app/"> Aravindh</a>> 👋</h1>
+<p align="center">🚀 Automation • 📊 Dashboards • 🐍 Python • 🖼️ Image Tools</p>
 
----
-
-## 🚀 Tech Stack
-
+<!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
 
-# 📂 Featured Projects  
-
----
-
-## ⭐ PhotoSort  
-📌 **Repo:** https://github.com/aravindhms/PhotoSort  
-
-A Python tool that **sorts photos automatically** using EXIF metadata.  
-Perfect for photographers and anyone with a large gallery.  
-- Reads EXIF  
-- Creates dynamic folders  
-- Auto-organizes based on date  
-- Minimal, fast, clean  
-
----
-
-## ⭐ SD-Dashboard  
-📌 **Repo:** https://github.com/aravindhms/sd-dashboard  
-
-A **Service Delivery Dashboard** designed for support teams:  
-- Performance KPIs  
-- SLA metrics  
-- Tickets, daily updates, trends  
-- Starter UI for real-time support visibility  
-
-Great for monitoring production or support processes.
-
----
-
-## ⭐ prod-support-automation-pack  
-📌 **Repo:** https://github.com/aravindhms/prod-support-automation-pack  
-
-A powerful toolkit for **Production/Application Support automation**:  
-- Log analyzers  
-- File comparison utilities  
-- Ticket summary generator  
-- Health-check scripts  
-- Cleanup tools  
-- Batch processing helpers  
-
----
-
-## ⭐ habit-tracker  
-📌 **Repo:** https://github.com/aravindhms/habit-tracker  
-
-A simple, personal habit-tracking project:  
-- Daily habits  
-- Status tracking  
-- Excel-based automation  
-- Clean, lightweight, practical  
-
----
-
-## ⭐ djangogallery  
-📌 **Repo:** https://github.com/aravindhms/djangogallery  
-
-A mini **Django-based photo gallery web application**:  
-- Django backend  
-- Image rendering  
-- Simple responsive layout  
-- Great demonstration of full-stack fundamentals  
-
----
-
-# 🏆 GitHub Stats
-
+<!-- FEATURED PROJECTS BANNER -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aravindhms&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=aravindhms&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/-📌%20Featured%20Projects-black?style=for-the-badge" />
 </p>
 
+---
+
+## 🌟 PhotoSort
+<a href="https://github.com/aravindhms/PhotoSort">
+  <img src="https://img.shields.io/badge/PhotoSort-Automatic%20Photo%20Organizer-1E90FF?style=for-the-badge&logo=google-photos&logoColor=white" />
+</a>
+
+✔ Auto-organize photos by date  
+✔ Remove duplicates  
+✔ Camera-friendly tool for creators
 
 ---
 
-# 🎯 What I'm Focusing On
-- More automation toolkits  
-- Support dashboards  
-- Python utilities  
-- SRE foundations & monitoring tools  
-- Django-based apps  
+## 📊 SD Dashboard
+<a href="https://github.com/aravindhms/sd-dashboard">
+  <img src="https://img.shields.io/badge/SD--Dashboard-Service%20Delivery%20Dashboard-8A2BE2?style=for-the-badge&logo=tableau&logoColor=white" />
+</a>
+
+✔ Production Support Metrics  
+✔ SLA Trends, Ticket Analytics  
+✔ Multi-chart dashboard pack
 
 ---
 
+## 🤖 Prod Support Automation Pack
+<a href="https://github.com/aravindhms/prod-support-automation-pack">
+  <img src="https://img.shields.io/badge/Prod%20Support%20Automation%20Pack-L2%20Automation%20Scripts-228B22?style=for-the-badge&logo=linux&logoColor=white" />
+</a>
+
+✔ Shell + Python automation scripts  
+✔ Log parsers, health checks, ETL tools  
+✔ Productivity boosters for L2 support
+
+---
+
+## 📅 Habit Tracker
+<a href="https://github.com/aravindhms/habit-tracker">
+  <img src="https://img.shields.io/badge/Habit%20Tracker-Excel%20%7C%20Python%20Tracker-FF8C00?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</a>
+
+✔ Modern Excel habit tracker  
+✔ Clean UI + auto-progress calculation  
+✔ Daily/Weekly/Monthly heatmaps
+
+---
+
+## 🖼️ DjangoGallery
+<a href="https://github.com/aravindhms/djangogallery">
+  <img src="https://img.shields.io/badge/DjangoGallery-Image%20Gallery%20Web%20App-2E8B57?style=for-the-badge&logo=django&logoColor=white" />
+</a>
+
+✔ Upload and manage images  
+✔ Django + responsive gallery  
+✔ Great for photographers
+
+---
+
+<!-- VIEW COUNTER -->
 <p align="center">
-  <b>⭐ If you like my work, feel free to star the repositories!</b>
+  <img src="https://komarev.com/ghpvc/?username=aravindhms&style=for-the-badge" />
 </p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">✨ Always building something useful. More projects coming soon!</p>
