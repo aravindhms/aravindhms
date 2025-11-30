@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Aravindh](https://aravindhms.vercel.app/) 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://aravindhms.vercel.app/">Aravindh</a> 👋</h1>
 
 ---
 
@@ -55,8 +55,6 @@ A powerful toolkit for **Production/Application Support automation**:
 - Cleanup tools  
 - Batch processing helpers  
 
-Your most impactful repo for support workflows.
-
 ---
 
 ## ⭐ habit-tracker  
@@ -77,7 +75,7 @@ A mini **Django-based photo gallery web application**:
 - Django backend  
 - Image rendering  
 - Simple responsive layout  
-- Good demonstration of full-stack fundamentals  
+- Great demonstration of full-stack fundamentals  
 
 ---
 
