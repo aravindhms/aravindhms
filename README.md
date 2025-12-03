@@ -119,3 +119,7 @@
 
 <!-- FOOTER -->
 <p align="center">✨ Always building something useful. More projects coming soon!</p>
+<!-- VIEW COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aravindhms&style=for-the-badge" />
+</p>
