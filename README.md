@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <p align="center">
   <a href="https://aravindhms.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5788D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aravindh+👋;I+automate+operations+%26+build+dashboards;SRE+%26+DevOps+Engineer;Always+building+something+useful" alt="Hi, I'm Aravindh" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5788D&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Aravindh+%F0%9F%91%8B%3BI+automate+operations+%26+build+dashboards%3BSRE+%26+DevOps+Engineer%3BAlways+building+something+useful" alt="Hi, I'm Aravindh" />
   </a>
 </p>
 
@@ -136,10 +136,10 @@
 
 <p align="center">
   <a href="https://github.com/aravindhms">
-    <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aravindhms&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Aravindh's GitHub Stats" height="150" />
+    <img align="center" src="https://githubreadme-stats.vercel.app/api?username=aravindhms&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Aravindh's GitHub Stats" height="150" />
   </a>
   <a href="https://github.com/aravindhms">
-    <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=aravindhms&layout=compact&theme=radical" alt="Aravindh's Top Languages" height="150" />
+    <img align="center" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=aravindhms&layout=compact&theme=radical" alt="Aravindh's Top Languages" height="150" />
   </a>
 </p>
 
